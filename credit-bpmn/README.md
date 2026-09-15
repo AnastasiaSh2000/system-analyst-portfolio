@@ -17,4 +17,3 @@
 
 **Артефакты:**
 <img width="1239" height="944" alt="activityCase1" src="https://github.com/user-attachments/assets/a94103e2-79ad-40d8-983d-a2a459db5cb6" />
-[Ссылка на файл с кодом диаграммы](./diagram2.puml)
