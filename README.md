@@ -24,7 +24,8 @@
 
 5. **Артефакты:**
 - [Ссылка на файл с кодом диаграммы](./diagram.puml)
-- ![Диаграмма последовательности](./diagram.png) 
+- <img width="1031" height="1774" alt="sequenceCase2" src="https://github.com/user-attachments/assets/d0a0a8be-c5c6-4624-9cca-d1953836a3d8" />
+
 
 **Стек:** UML, PlantUML, REST API.
 
