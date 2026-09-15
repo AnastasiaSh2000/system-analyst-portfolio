@@ -16,4 +16,5 @@
 *Обоснование:* Сотрудник и Клиент взаимодействуют в оффлайне. Их взаимодействие начинается с физического обращения клиента и заканчивается выдачей решения. 
 
 **Артефакты:**
-<img width="1239" height="944" alt="activityCase1" src="https://github.com/user-attachments/assets/a94103e2-79ad-40d8-983d-a2a459db5cb6" />
+<img width="2242" height="512" alt="BPMN_case1 drawio" src="https://github.com/user-attachments/assets/15cce564-63ae-445e-9e75-5e545d4d206b" />
+
