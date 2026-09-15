@@ -8,7 +8,7 @@
 - **Требования:** Сбор и анализ бизнес-требований, написание User Stories, критериев приемки (Acceptance Criteria).
 - **Моделирование:** UML (Sequence Diagram, Use Case), BPMN (As-Is/To-Be), ERD.
 - **API:** REST API, работа с методами GET/POST, понимание JSON/XML, описание контрактов.
-- **Инструменты:** PlantUML, Draw.io, GitHub, Jira, Confluence (базовый уровень).
+- **Инструменты:** PlantUML, Draw.io, GitHub (базовый уровень).
 - **Базы данных:** Понимание реляционных БД, написание простых SQL-запросов (SELECT, JOIN).
 
 ## Мои проекты (Кейсы)
